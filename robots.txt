@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-chw342.caym.land/sitemap.xml
